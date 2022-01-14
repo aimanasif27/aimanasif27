@@ -1,16 +1,65 @@
-### Hi there 👋
+# Hi there 👋 I am Aiman Asif
 
-<!--
-**aimanasif27/aimanasif27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+<a href="https://www.linkedin.com/in/aiman-asif"><img src="https://img.shields.io/badge/-Aiman%20Asif-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+<a href="https://instagram.com/aiman_asif_"><img src="https://img.shields.io/badge/-@aiman_asif_-333333?style=flat-square&logo=instagram"/></a>
+<a href="https://discord.com/users/aiman-asif#5888"><img src="https://img.shields.io/badge/-aimanasif-333333?style=flat-square&logo=discord"/></a>
+<a href="https://about.me/aimanasif"><img src="https://img.shields.io/badge/-Aiman%20Asif-333333?style=flat-square&logo=aboutme"/></a>
+  <a href="https://stackoverflow.com/users/story/17097767"><img src="https://img.shields.io/badge/-Aiman%20Asif-333333?style=flat-square&logo=stackoverflow"/></a>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=aimanasif27&label=Aiman's%20Profile%20Views&color=135429&style=flat"/> </p>
 
-Here are some ideas to get you started:
+## About Me 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🖥️ I'm a Tech-Enthusiast willing to learn, unlearn and relearn in the Tech Industry with a knack for growth
+- 💡 I enjoy generating new ideas and devising feasible solutions to broadly relevant problems
+- 🎓 B.Tech in Computer Science and Engineering on progress
+- 🧑‍💻 Software Developer since 2019
+- 💼 Microsoft Learn Student Ambassador
+
+</br>
+
+## Tech Knowledge
+
+### Languages
+  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java&logoColor=7e10cc)
+  ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=C&logoColor=7e10cc)
+  ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=cplusplus&logoColor=7e10cc)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+  
+### Libraries and Frameworks
+
+ ![Android](https://img.shields.io/badge/-Android-333333?style=flat&logo=android)
+ 
+### Infrastructure and Development
+  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+  ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)
+  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+  ![GCP](https://img.shields.io/badge/GCP-Google%20Cloud%20Platform-lightgrey)
+
+### Enviroment, IDEs and Tools
+  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+  ![Android Studio](https://img.shields.io/badge/-Android%20Studio-333333?style=flat&logo=android-studio&logoColor=007ACC)
+  ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
+  ![Windows 10](https://img.shields.io/badge/-windows-333333?style=flat&logo=linux)
+
+</br>
+
+## Technologies I'm interested to learn more 
+
+  ![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=flutter&logoColor=42bff5)
+  ![Data Analytics](https://img.shields.io/badge/-Data_Analytics-333333?style=flat&logo=python&logoColor=42bff5)
+  ![Cloud](https://img.shields.io/badge/-Cloud-333333?style=flat&logo=cloud&logoColor=42bff5)
+  ![BlockChain](https://img.shields.io/badge/-BlockChain-333333?style=flat&logo=blockchain&logoColor=42bff5)
+</br>
+
+## GitHub Analytics 
+
+<p align="center">
+<a href="https://github.com/aimanasif27">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aimanasif27&count_private=true&show_icons=true&theme=merko" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=aimanasif27&theme=merko&layout=compact&langs_count=10&exclude_repo=gamebase&hide=objective-c,c,java" />
+  <img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=aimanasif27&theme=merko"/>
+</a>
+</p>
