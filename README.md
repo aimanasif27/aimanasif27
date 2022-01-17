@@ -63,3 +63,13 @@
   <img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=aimanasif27&theme=merko"/>
 </a>
 </p>
+
+## Aiman's github activity graph
+
+<p align="center">
+<a href="https://github.com/aimanasif27">
+  <img align="center" height="180em" src="https://activity-graph.herokuapp.com/graph?username=aimanasif27&theme=xcode"/>
+</a>
+</p>
+
+
