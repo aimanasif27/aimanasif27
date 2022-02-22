@@ -26,6 +26,7 @@
   ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=C&logoColor=7e10cc)
   ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=cplusplus&logoColor=7e10cc)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+  ![Kotlin](https://img.shields.io/badge/-Kotlin-333333?style=flat&logo=kotlin)
   
 ### Libraries and Frameworks
 
@@ -36,13 +37,13 @@
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
   ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-  ![GCP](https://img.shields.io/badge/GCP-Google%20Cloud%20Platform-lightgrey)
+  ![GCP](https://img.shields.io/badge/GCP-Google%20Cloud%20Platform-lightgrey?style=flat&logo=cloud)
 
 ### Enviroment, IDEs and Tools
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![Android Studio](https://img.shields.io/badge/-Android%20Studio-333333?style=flat&logo=android-studio&logoColor=007ACC)
   ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
-  ![Windows 10](https://img.shields.io/badge/-windows-333333?style=flat&logo=linux)
+  ![Windows 10](https://img.shields.io/badge/-windows-333333?style=flat&logo=windows)
 
 </br>
 
