@@ -15,7 +15,7 @@
 - 🎓 B.Tech in Computer Science and Engineering on progress
 - 🧑‍💻 Software Developer since 2019
 - 💼 Microsoft Learn Student Ambassador
-- 💼 #IamRemarkable Facilitator
+- 💼 Google #IamRemarkable Facilitator
 - 💼 Postman Student Expert
 
 </br>
