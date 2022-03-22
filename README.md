@@ -40,7 +40,7 @@
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
   ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-  ![GCP](https://img.shields.io/badge/GCP-lightgrey?style=flat&logo=googlecloud)
+  ![GCP](https://img.shields.io/badge/GCP-333333?style=flat&logo=googlecloud)
   ![Azure](https://img.shields.io/badge/-Azure-333333?style=flat&logo=microsoftazure)
 
 ### Enviroment, IDEs and Tools
