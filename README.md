@@ -53,8 +53,8 @@
 
   ![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=flutter&logoColor=42bff5)
   ![Data Analytics](https://img.shields.io/badge/-Data_Analytics-333333?style=flat&logo=python&logoColor=42bff5)
-  ![Cloud](https://img.shields.io/badge/-Cloud-333333?style=flat&logo=cloud&logoColor=42bff5)
-  ![BlockChain](https://img.shields.io/badge/-BlockChain-333333?style=flat&logo=blockchain&logoColor=42bff5)
+  ![Cloud](https://img.shields.io/badge/-Cloud-333333?style=flat&logo=googlecloud&logoColor=42bff5)
+  ![BlockChain](https://img.shields.io/badge/-BlockChain-333333?style=flat&logo=circle&logoColor=42bff5)
 </br>
 
 ## GitHub Analytics 
