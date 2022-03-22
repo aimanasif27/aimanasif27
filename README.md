@@ -1,30 +1,31 @@
 # Hi there 👋 I am Aiman Asif
 
-<p align="center">
-<a href="https://www.linkedin.com/in/aiman-asif"><img src="https://img.shields.io/badge/-Aiman%20Asif-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
-<a href="https://instagram.com/aiman_asif_"><img src="https://img.shields.io/badge/-@aiman_asif_-333333?style=flat-square&logo=instagram"/></a>
-<a href="https://discord.com/users/aiman-asif#5888"><img src="https://img.shields.io/badge/-aimanasif-333333?style=flat-square&logo=discord"/></a>
-<a href="https://about.me/aimanasif"><img src="https://img.shields.io/badge/-Aiman%20Asif-333333?style=flat-square&logo=aboutme"/></a>
-  <a href="https://stackoverflow.com/users/story/17097767"><img src="https://img.shields.io/badge/-Aiman%20Asif-333333?style=flat-square&logo=stackoverflow"/></a>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=aimanasif27&label=Aiman's%20Profile%20Views&color=135429&style=flat"/> </p>
+<p>
+<a href="https://www.linkedin.com/in/aiman-asif"><img src="https://img.shields.io/badge/-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+<a href="https://instagram.com/aiman_asif_"><img src="https://img.shields.io/badge/-333333?style=flat-square&logo=instagram"/></a>
+<a href="https://discord.com/users/aiman-asif#5888"><img src="https://img.shields.io/badge/-333333?style=flat-square&logo=discord"/></a>
+<a href="https://stackoverflow.com/users/story/17097767"><img src="https://img.shields.io/badge/-333333?style=flat-square&logo=stackoverflow"/></a>
+<a href="https://google.qwiklabs.com/public_profiles/b034ded8-4e28-4266-a137-6fb08ae981f1"><img src="https://img.shields.io/badge/-333333?style=flat-square&logo=qwiklabs"/></a>
+<a href="https://docs.microsoft.com/en-us/users/aimanasif-7192"><img src="https://img.shields.io/badge/-333333?style=flat-square&logo=microsoft"/></a>
+<a href="https://about.me/aimanasif"><img src="https://img.shields.io/badge/-333333?style=flat-square&logo=about.me"/></a>
+<br><img src="https://komarev.com/ghpvc/?username=aimanasif27&label=Profile%20Visitors&color=135429&style=flat"/> </p>
 
 ## About Me 
 
 - 🖥️ I'm a Tech-Enthusiast willing to learn, unlearn and relearn in the Tech Industry with a knack for growth
 - 💡 I enjoy generating new ideas and devising feasible solutions to broadly relevant problems
 - 🎓 B.Tech in Computer Science and Engineering on progress
-- 🧑‍💻 Software Developer since 2019
 - 💼 Microsoft Learn Student Ambassador
 - 💼 Google #IamRemarkable Facilitator
 - 💼 Postman Student Expert
+- 💼 Open Source Contributor at GSSoC'22
+- 💼 Women TechMaker Lead at GDCS-SISTec 
 
-</br>
 
 ## Tech Knowledge
 
 ### Languages
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java&logoColor=7e10cc)
   ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=C&logoColor=7e10cc)
   ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=cplusplus&logoColor=7e10cc)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
@@ -39,15 +40,14 @@
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
   ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-  ![GCP](https://img.shields.io/badge/GCP-Google%20Cloud%20Platform-lightgrey?style=flat&logo=cloud)
+  ![GCP](https://img.shields.io/badge/GCP-lightgrey?style=flat&logo=googlecloud)
+  ![Azure](https://img.shields.io/badge/-Azure-333333?style=flat&logo=microsoftazure)
 
 ### Enviroment, IDEs and Tools
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![Android Studio](https://img.shields.io/badge/-Android%20Studio-333333?style=flat&logo=android-studio&logoColor=007ACC)
   ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
   ![Windows 10](https://img.shields.io/badge/-windows-333333?style=flat&logo=windows)
-
-</br>
 
 ## Technologies I'm interested to learn more 
 
@@ -67,6 +67,7 @@
 </a>
 </p>
 
+<!-- 
 ## Aiman's github activity graph
 
 <p align="center">
@@ -74,5 +75,5 @@
   <img align="center" height="180em" src="https://activity-graph.herokuapp.com/graph?username=aimanasif27&theme=xcode"/>
 </a>
 </p>
-
+ -->
 
